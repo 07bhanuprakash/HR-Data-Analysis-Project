@@ -7,13 +7,13 @@ Data cleaning & Analysis-MYSQL
 Data Visualization-Power Bi
 
 ##KPI's
-1.what is the gender breakdown of employees in the company?
-2.what is the race/ethnicity breakdown pf employees in the company?
-3.what are the age distribution in the company?
-4.How many employees work at headquater versus remote location?
-5.what is the average length of employees who have been terminated?
-6.How does gender distibution vary across department and job title?
-7.How has the company employee count changed over time based on hire and term date?
+1. what is the gender breakdown of employees in the company?
+2. what is the race/ethnicity breakdown pf employees in the company?
+3. what are the age distribution in the company?
+4. How many employees work at headquater versus remote location?
+5. what is the average length of employees who have been terminated?
+6. How does gender distibution vary across department and job title?
+7. How has the company employee count changed over time based on hire and term date?
 
 ##Summary Of Findings
 . There are more male employees.
