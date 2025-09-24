@@ -16,7 +16,7 @@ Data Visualization-Power Bi
 7.How has the company employee count changed over time based on hire and term date?
 
 ##Summary Of Findings
-.There are more male employees.
+. There are more male employees.
 · White race is the most dominant while Native Hawaian and American Indiun are the lesnt dominant.
 · The youngest employee is 20 years dld and the dldest is 57 years old.
 · 5 age groups were created(18-24, 25.34, 3544, 45.S4, 556) A large number of ermployees were betwen 25.
